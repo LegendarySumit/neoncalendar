@@ -1,0 +1,10 @@
+# Tkinter is included with Python 3 by default
+# No external dependencies required for running the app
+# 
+# To run this project:
+# python calendar_app.py
+
+# Development dependencies (optional)
+# For creating standalone executable:
+# pip install pyinstaller
+# pyinstaller --onefile --windowed --name "NeonCalendar" calendar_app.py
